@@ -1,0 +1,35 @@
+
+
+#name{
+    border-top-right-radius: 0px;
+    
+}
+#cbox{
+    border-radius: 5px;
+}
+#outbox{
+    background-color: darkorchid;
+    color: dodgerblue;
+    border-radius: 16px;
+
+}
+.addbtn{
+   
+    color: black;
+}
+.showbtn{
+    
+    color: black;
+}
+.savebtn{
+    background-color: white;
+    color: black;
+}
+.errors{
+    font-size: 12;
+    color: red;
+}
+Link:hover{
+    text-decoration: none;
+
+}
